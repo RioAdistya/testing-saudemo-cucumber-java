@@ -15,7 +15,7 @@ https://github.com/RioAdistya/testing-saudemo-cucumber-java.git
 2. Open this file with Intellij IDE
 3. Install depedencies in the maven pom.xml
 4. edit atau tambah kan configurations run/debug lalu pilih class dan panggil 'runner.RunTest' untuk menjalankan test
-5.test bisa dijalankan sesuai tags yang sudah di panggil pada RunTest
+5. test bisa dijalankan sesuai tags yang sudah di panggil pada RunTest
 6. Run with debugger yang sudah diedit sebelumnya in Intellij
 
 note:
