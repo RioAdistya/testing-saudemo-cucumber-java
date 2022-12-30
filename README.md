@@ -10,7 +10,7 @@ https://www.saucedemo.com/
 How to run
 1. Clone this repo
 ```
-git clone https://github.com/RioAdistya/testing-saudemo-selenium-java.git
+https://github.com/RioAdistya/testing-saudemo-cucumber-java.git
 ```
 2. Open this file with Intellij IDE
 3. Install depedencies in the maven pom.xml
@@ -19,5 +19,5 @@ git clone https://github.com/RioAdistya/testing-saudemo-selenium-java.git
 
 note:
 ```
-Tambah chrome driver pada mySkill-live-SeleniumTest\src\main\resources\drivers\chromedriver.exe : https://chromedriver.chromium.org/downloads (sesuaikan dengan
+Tambah chrome driver pada \src\test\resources\drivers\chromedriver.exe : https://chromedriver.chromium.org/downloads (sesuaikan dengan
 versi chrome yang terinstall)
